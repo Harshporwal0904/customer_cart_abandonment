@@ -1,0 +1,6 @@
+time_group,total_sessions,abandoned_sessions,abandonment_rate
+< 1 min,19983,15572,77.93
+1-5 min,12739,9528,74.79
+5-15 min,6571,4467,67.98
+15-30 min,3134,1896,60.5
+30+ min,1497,701,46.83

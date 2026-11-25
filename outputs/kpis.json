@@ -1,0 +1,12 @@
+{
+  "total_sessions": 1761660,
+  "total_visitors": 1407580,
+  "total_events": 2755641,
+  "cart_sessions": 43924,
+  "abandoned_sessions": 32164,
+  "converted_sessions": 11760,
+  "abandonment_rate": 73.23,
+  "cart_conversion_rate": 26.77,
+  "start_date": "2015-05-03 08:30:04.384000",
+  "end_date": "2015-09-18 08:29:47.788000"
+}

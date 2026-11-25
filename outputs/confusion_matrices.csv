@@ -1,0 +1,3 @@
+model,true_negative,false_positive,false_negative,true_positive
+Logistic Regression,759,1570,846,5613
+GBTClassifier,1138,1191,1623,4836

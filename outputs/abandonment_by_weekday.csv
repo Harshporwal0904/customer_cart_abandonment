@@ -1,0 +1,8 @@
+day_of_week,total_sessions,abandoned_sessions,abandonment_rate,day_name
+1.0,4592,3560,77.53,Sunday
+2.0,6057,4453,73.52,Monday
+3.0,7654,5433,70.98,Tuesday
+4.0,7243,5133,70.87,Wednesday
+5.0,7024,5029,71.6,Thursday
+6.0,6382,4777,74.85,Friday
+7.0,4972,3779,76.01,Saturday

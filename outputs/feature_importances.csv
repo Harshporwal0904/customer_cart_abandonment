@@ -1,0 +1,15 @@
+feature,importance,coefficient,model
+views_before_cart,0.04583994903995941,-0.04583994903995941,Logistic Regression
+distinct_items_viewed,0.07874472050766669,0.07874472050766669,Logistic Regression
+seconds_to_cart,0.0003944997188041735,-0.0003944997188041735,Logistic Regression
+hour_of_day,0.002668789941739009,-0.002668789941739009,Logistic Regression
+day_of_week,0.006210222163877629,0.006210222163877629,Logistic Regression
+prior_sessions,0.0010219797625303823,-0.0010219797625303823,Logistic Regression
+prior_purchases,0.05056745193578651,-0.05056745193578651,Logistic Regression
+views_before_cart,0.09647001518579704,,GBTClassifier
+distinct_items_viewed,0.06768764063829928,,GBTClassifier
+seconds_to_cart,0.12620597303174474,,GBTClassifier
+hour_of_day,0.1870133159241768,,GBTClassifier
+day_of_week,0.11137932270072695,,GBTClassifier
+prior_sessions,0.10998149335697326,,GBTClassifier
+prior_purchases,0.301262239162282,,GBTClassifier
